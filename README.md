@@ -18,7 +18,7 @@
 I'm a passionate and versatile full stack developer who loves to blend elegant design with robust code. I specialize in building scalable web applications from scratch and enjoy experimenting with new technologies to push the limits of what's possible.
 
 - 🔭 I’m always on the lookout for exciting projects and innovative challenges.
-- 🌱 Continuously honing my skills in **C++, React.js, Node.js, Tailwind CSS, Bootstrap, API design, GraphQL, MongoDB, MySQL, Postman**, and more.
+- 🌱 Continuously honing my skills in **C++,Python, React.js, Node.js, Tailwind CSS, Bootstrap, API design, GraphQL, MongoDB, MySQL, Postman**, and more.
 - 💬 Let's chat about groundbreaking projects like **Anywork, Artsphere, Reflection, cookurfood,** and **multichatroomc++**.
 - ⚡ Fun fact: I mix a dash of creativity with my code to build both stunning interfaces and powerful backend systems.
 
